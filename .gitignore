@@ -1,0 +1,13 @@
+*.png
+
+__pycache__
+
+.vscode
+
+*.p
+
+env/
+
+*.pyc
+
+config.py
